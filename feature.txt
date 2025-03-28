@@ -1,0 +1,2 @@
+This is a new feature being developed in the feature branch.
+It will be merged into the main branch via a pull request.
